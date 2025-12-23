@@ -134,7 +134,7 @@ I'm always interested in discussing **AI applications**, **backend architecture*
 📧 **Email**: asifshaik142000@gmail.com  
 💼 **LinkedIn**: [linkedin.com/in/asif-shaik-8235b3344](https://www.linkedin.com/in/asif-shaik-8235b3344/)  
 💻 **GitHub**: [github.com/SHAIK14](https://github.com/SHAIK14)  
-📱 **Phone**: +91-9553875763
+
 
 ---
 
