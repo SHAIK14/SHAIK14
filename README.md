@@ -142,6 +142,6 @@ I'm always interested in discussing **AI applications**, **backend architecture*
 
 ### "Building intelligent systems that make complex data accessible to everyone."
 
-![Profile Views](https://komarev.com/ghpvc/?username=SHAIK14&color=blueviolet&style=for-the-badge)
+
 
 </div>
